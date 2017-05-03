@@ -1,0 +1,11 @@
+Admin
+https://uliapim.portal.azure-api.net/admin
+
+Developer Portal
+
+https://uliapim.portal.azure-api.net/
+
+Swagger API URL
+https://api.swaggerhub.com/apis/ulims/RainingCatsAndDogs/1.0.0
+
+
